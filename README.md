@@ -1,4 +1,8 @@
-# E6691 Advanced Deep Learning Assignment 2 - Spring 2021
+# E6691 Advanced Deep Learning Assignment 2 - Sign Language MNIST Competition - Spring 2021
+## Overview
+This is your assignment 2. You will be given a dataset of hand gestures and you need to do a multi-classification task.
+
+Your deep learning framework should be PyTorch.
 
 ## Data Description
 This is an assignment for Sign Language MNIST Competition:
@@ -22,7 +26,6 @@ Please run jupyter notebook:"Sign_Language_MNIST_Competition_Lechen.ipynb"
 
 
 ## Additional information
-<br>
 Assignment 2 is a in-class Kaggle competition in which you need to design your deep learning models and submit your results to receive credits.
 
 You will find more details (competition intro, data description, etc.) in the link below.
